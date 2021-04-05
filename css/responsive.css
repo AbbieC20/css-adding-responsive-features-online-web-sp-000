@@ -13,7 +13,7 @@
 @media only screen and (min-width: 751px) and (max-width: 900px) {
   body { font-size: 85%; }
   h1.logo { }
-  h2.logo { }
+  h2.logo { font-size: 2.2em; }
 }
 
 @media only screen and (min-width: 750px){
