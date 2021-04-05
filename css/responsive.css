@@ -2,7 +2,7 @@
 
 
 /*Add breakpoint for smaller screens at 1100px
-Add a breakpoint for 1108px in your responsive.css stylesheet
+Add a breakpoint for 1100px in your responsive.css stylesheet
 Within this breakpoint:
 Set the width of the .wrapper class to 90%
 Change the #social selector to have an absolute position, with an automatic width, 82px from the top, and 4px from the right
